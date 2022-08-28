@@ -2,7 +2,7 @@
 
 A starter template using vue3 and vite for developing Figma plugins
 
-## Get started
+## Get started 
 
 ```
 npm install
